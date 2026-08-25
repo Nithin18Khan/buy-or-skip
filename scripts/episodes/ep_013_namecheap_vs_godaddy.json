@@ -1,0 +1,67 @@
+{
+  "title": "Namecheap vs GoDaddy: stop overpaying for a domain",
+  "youtube_title": "Namecheap vs GoDaddy: stop overpaying for a domain",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "hostinger",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "hostinger",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "GoDaddy ads make domains look cheaper than renewals.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "GoDaddy ads make domains look cheaper than renewals. We compare first-year vs year-two price, then where Hostinger sits if you also need hosting.",
+    "This is for anyone buying a first domain from an ad.",
+    "GoDaddy wins the first-year screenshot and loses the renewal.",
+    "Namecheap is usually the calmer invoice. Hostinger matters if you also need hosting.",
+    "Skip GoDaddy upsells. Buy the registrar that does not hunt you in year two.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nNamecheap vs GoDaddy: stop overpaying for a domain\n\nGoDaddy ads make domains look cheaper than renewals. We compare first-year vs year-two price, then where Hostinger sits if you also need hosting.\n\nThis is for anyone buying a first domain from an ad.\nGoDaddy wins the first-year screenshot and loses the renewal.\nNamecheap is usually the calmer invoice. Hostinger matters if you also need hosting.\nSkip GoDaddy upsells. Buy the registrar that does not hunt you in year two.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "GoDaddy ads make domains look cheaper than renewals."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for anyone buying a first domain from an ad."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "GoDaddy wins the first-year screenshot and loses the renewal."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "Namecheap is usually the calmer invoice. Hostinger matters if you also need hosting."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip GoDaddy upsells. Buy the registrar that does not hunt you in year two."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_013_namecheap_vs_godaddy",
+  "week": 7,
+  "slot": "long"
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Cursor vs VS Code if you already code",
+  "youtube_title": "Cursor vs VS Code if you already code",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "amazon_in",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "amazon_in",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "VS Code is free and everywhere.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "VS Code is free and everywhere. Cursor is VS Code plus an agent. This is for people who already type, not for \u2018AI will replace you\u2019 hype.",
+    "This is for people who already write code. Not for prompt tourists.",
+    "Cursor is VS Code plus an agent bill. VS Code stays free.",
+    "The agent will still invent APIs. You still read the diff.",
+    "Skip Cursor if you paste homework. Buy it if review time is the bottleneck.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nCursor vs VS Code if you already code\n\nVS Code is free and everywhere. Cursor is VS Code plus an agent. This is for people who already type, not for \u2018AI will replace you\u2019 hype.\n\nThis is for people who already write code. Not for prompt tourists.\nCursor is VS Code plus an agent bill. VS Code stays free.\nThe agent will still invent APIs. You still read the diff.\nSkip Cursor if you paste homework. Buy it if review time is the bottleneck.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "VS Code is free and everywhere."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for people who already write code. Not for prompt tourists."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Cursor is VS Code plus an agent bill. VS Code stays free."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "The agent will still invent APIs. You still read the diff."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Cursor if you paste homework. Buy it if review time is the bottleneck."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_009_cursor_vs_vscode",
+  "week": 5,
+  "slot": "long"
+}

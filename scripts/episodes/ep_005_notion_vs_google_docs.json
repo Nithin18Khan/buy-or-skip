@@ -1,0 +1,67 @@
+{
+  "title": "Notion vs Google Docs for a one-person business",
+  "youtube_title": "Notion vs Google Docs for a one-person business",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "amazon_in",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "amazon_in",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Docs wins at comments.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Docs wins at comments. Notion wins at databases. If you only write letters, stay on Docs. If you run a pipeline, Notion starts to pay rent.",
+    "This is for a one-person shop that needs a wiki plus a tracker.",
+    "Notion is free until your workspace becomes a maze you pay to maintain.",
+    "Docs wins comments. Notion wins databases. Neither replaces a real CRM by magic.",
+    "Skip Notion if you only write letters. Stay on Docs. Buy Notion when the pipeline is the product.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nNotion vs Google Docs for a one-person business\n\nDocs wins at comments. Notion wins at databases. If you only write letters, stay on Docs. If you run a pipeline, Notion starts to pay rent.\n\nThis is for a one-person shop that needs a wiki plus a tracker.\nNotion is free until your workspace becomes a maze you pay to maintain.\nDocs wins comments. Notion wins databases. Neither replaces a real CRM by magic.\nSkip Notion if you only write letters. Stay on Docs. Buy Notion when the pipeline is the product.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Docs wins at comments."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for a one-person shop that needs a wiki plus a tracker."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Notion is free until your workspace becomes a maze you pay to maintain."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "Docs wins comments. Notion wins databases. Neither replaces a real CRM by magic."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Notion if you only write letters. Stay on Docs. Buy Notion when the pipeline is the product."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_005_notion_vs_google_docs",
+  "week": 3,
+  "slot": "long"
+}

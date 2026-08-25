@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+output/
+temp/
+credentials/*
+!credentials/.gitkeep
+!credentials/HOW_TO_AUTH.txt
+data/factory_state.json.bak

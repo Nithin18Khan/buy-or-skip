@@ -1,0 +1,175 @@
+{
+  "days": 90,
+  "long_videos": 24,
+  "cadence": "2 long / week",
+  "episodes": [
+    {
+      "id": "ep_001_hostinger_vs_cheap_hosting",
+      "file": "scripts/episodes/ep_001_hostinger_vs_cheap_hosting.json",
+      "title": "Is Hostinger actually cheaper than budget hosting?",
+      "program": "hostinger",
+      "week": 1
+    },
+    {
+      "id": "ep_002_canva_pro_worth_it",
+      "file": "scripts/episodes/ep_002_canva_pro_worth_it.json",
+      "title": "Is Canva Pro worth paying for?",
+      "program": "canva",
+      "week": 1
+    },
+    {
+      "id": "ep_003_nordvpn_vs_free_vpn",
+      "file": "scripts/episodes/ep_003_nordvpn_vs_free_vpn.json",
+      "title": "Free VPN vs NordVPN \u2014 what actually leaks?",
+      "program": "nordvpn",
+      "week": 2
+    },
+    {
+      "id": "ep_004_chatgpt_plus_vs_free",
+      "file": "scripts/episodes/ep_004_chatgpt_plus_vs_free.json",
+      "title": "ChatGPT Plus vs free: who should pay?",
+      "program": "amazon_in",
+      "week": 2
+    },
+    {
+      "id": "ep_005_notion_vs_google_docs",
+      "file": "scripts/episodes/ep_005_notion_vs_google_docs.json",
+      "title": "Notion vs Google Docs for a one-person business",
+      "program": "amazon_in",
+      "week": 3
+    },
+    {
+      "id": "ep_006_capcut_desktop_vs_phone",
+      "file": "scripts/episodes/ep_006_capcut_desktop_vs_phone.json",
+      "title": "CapCut desktop vs phone: which should editors use?",
+      "program": "amazon_in",
+      "week": 3
+    },
+    {
+      "id": "ep_007_semrush_vs_ubersuggest",
+      "file": "scripts/episodes/ep_007_semrush_vs_ubersuggest.json",
+      "title": "Semrush vs Ubersuggest for a new site",
+      "program": "hostinger",
+      "week": 4
+    },
+    {
+      "id": "ep_008_midjourney_vs_free_ai_images",
+      "file": "scripts/episodes/ep_008_midjourney_vs_free_ai_images.json",
+      "title": "Midjourney vs free AI images for YouTube thumbs",
+      "program": "canva",
+      "week": 4
+    },
+    {
+      "id": "ep_009_cursor_vs_vscode",
+      "file": "scripts/episodes/ep_009_cursor_vs_vscode.json",
+      "title": "Cursor vs VS Code if you already code",
+      "program": "amazon_in",
+      "week": 5
+    },
+    {
+      "id": "ep_010_descript_vs_capcut",
+      "file": "scripts/episodes/ep_010_descript_vs_capcut.json",
+      "title": "Descript vs CapCut for talking-head edits",
+      "program": "amazon_in",
+      "week": 5
+    },
+    {
+      "id": "ep_011_elevenlabs_vs_free_tts",
+      "file": "scripts/episodes/ep_011_elevenlabs_vs_free_tts.json",
+      "title": "ElevenLabs vs free TTS for product videos",
+      "program": "amazon_in",
+      "week": 6
+    },
+    {
+      "id": "ep_012_runway_vs_capcut_ai",
+      "file": "scripts/episodes/ep_012_runway_vs_capcut_ai.json",
+      "title": "Runway vs CapCut AI video tools",
+      "program": "canva",
+      "week": 6
+    },
+    {
+      "id": "ep_013_namecheap_vs_godaddy",
+      "file": "scripts/episodes/ep_013_namecheap_vs_godaddy.json",
+      "title": "Namecheap vs GoDaddy: stop overpaying for a domain",
+      "program": "hostinger",
+      "week": 7
+    },
+    {
+      "id": "ep_014_grammarly_vs_languagetool",
+      "file": "scripts/episodes/ep_014_grammarly_vs_languagetool.json",
+      "title": "Grammarly vs LanguageTool for client email",
+      "program": "amazon_in",
+      "week": 7
+    },
+    {
+      "id": "ep_015_zoom_vs_google_meet",
+      "file": "scripts/episodes/ep_015_zoom_vs_google_meet.json",
+      "title": "Zoom vs Google Meet for client calls",
+      "program": "amazon_in",
+      "week": 8
+    },
+    {
+      "id": "ep_016_clickup_vs_notion",
+      "file": "scripts/episodes/ep_016_clickup_vs_notion.json",
+      "title": "ClickUp vs Notion for tasks you will actually do",
+      "program": "amazon_in",
+      "week": 8
+    },
+    {
+      "id": "ep_017_shopify_vs_woocommerce",
+      "file": "scripts/episodes/ep_017_shopify_vs_woocommerce.json",
+      "title": "Shopify vs WooCommerce for a first store",
+      "program": "hostinger",
+      "week": 9
+    },
+    {
+      "id": "ep_018_stripe_vs_paypal",
+      "file": "scripts/episodes/ep_018_stripe_vs_paypal.json",
+      "title": "Stripe vs PayPal for getting paid",
+      "program": "amazon_in",
+      "week": 9
+    },
+    {
+      "id": "ep_019_proton_vs_gmail",
+      "file": "scripts/episodes/ep_019_proton_vs_gmail.json",
+      "title": "Proton vs Gmail if privacy is the product",
+      "program": "nordvpn",
+      "week": 10
+    },
+    {
+      "id": "ep_020_obsidian_vs_notion",
+      "file": "scripts/episodes/ep_020_obsidian_vs_notion.json",
+      "title": "Obsidian vs Notion for notes you own",
+      "program": "amazon_in",
+      "week": 10
+    },
+    {
+      "id": "ep_021_riverside_vs_zoom_record",
+      "file": "scripts/episodes/ep_021_riverside_vs_zoom_record.json",
+      "title": "Riverside vs Zoom for podcast recording",
+      "program": "amazon_in",
+      "week": 11
+    },
+    {
+      "id": "ep_022_epidemic_vs_yt_audio_library",
+      "file": "scripts/episodes/ep_022_epidemic_vs_yt_audio_library.json",
+      "title": "Epidemic Sound vs YouTube Audio Library",
+      "program": "amazon_in",
+      "week": 11
+    },
+    {
+      "id": "ep_023_convertkit_vs_mailchimp",
+      "file": "scripts/episodes/ep_023_convertkit_vs_mailchimp.json",
+      "title": "ConvertKit vs Mailchimp for a tiny list",
+      "program": "amazon_in",
+      "week": 12
+    },
+    {
+      "id": "ep_024_bluehost_vs_hostinger",
+      "file": "scripts/episodes/ep_024_bluehost_vs_hostinger.json",
+      "title": "Bluehost vs Hostinger in 2026",
+      "program": "hostinger",
+      "week": 12
+    }
+  ]
+}

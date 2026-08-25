@@ -1,0 +1,67 @@
+{
+  "title": "Descript vs CapCut for talking-head edits",
+  "youtube_title": "Descript vs CapCut for talking-head edits",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "amazon_in",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "amazon_in",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Descript edits text like a doc.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Descript edits text like a doc. CapCut edits a timeline. If you record yourself, Descript can cut uhms faster. If you cut B-roll, CapCut still wins.",
+    "This is for talking-head creators who hate cutting uhms on a timeline.",
+    "Descript bills like software. CapCut is cheaper if you already live there.",
+    "Text-based edit is magic until you need B-roll stacked on beats.",
+    "Skip Descript if you cut music videos. Buy it if the A-roll is your face.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nDescript vs CapCut for talking-head edits\n\nDescript edits text like a doc. CapCut edits a timeline. If you record yourself, Descript can cut uhms faster. If you cut B-roll, CapCut still wins.\n\nThis is for talking-head creators who hate cutting uhms on a timeline.\nDescript bills like software. CapCut is cheaper if you already live there.\nText-based edit is magic until you need B-roll stacked on beats.\nSkip Descript if you cut music videos. Buy it if the A-roll is your face.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Descript edits text like a doc."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for talking-head creators who hate cutting uhms on a timeline."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Descript bills like software. CapCut is cheaper if you already live there."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "Text-based edit is magic until you need B-roll stacked on beats."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Descript if you cut music videos. Buy it if the A-roll is your face."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_010_descript_vs_capcut",
+  "week": 5,
+  "slot": "long"
+}

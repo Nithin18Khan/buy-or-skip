@@ -1,0 +1,67 @@
+{
+  "title": "Epidemic Sound vs YouTube Audio Library",
+  "youtube_title": "Epidemic Sound vs YouTube Audio Library",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "amazon_in",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "amazon_in",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "YouTube\u2019s library is free and overused.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "YouTube\u2019s library is free and overused. Epidemic is a subscription for people who publish daily. We match three moods.",
+    "This is for people who publish on a clock.",
+    "YouTube's library is free and overused. Epidemic is a subscription for fresh beds.",
+    "A copyright claim costs more than a month of music.",
+    "Skip Epidemic if you post monthly. Buy it if daily uploads need new beds.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nEpidemic Sound vs YouTube Audio Library\n\nYouTube\u2019s library is free and overused. Epidemic is a subscription for people who publish daily. We match three moods.\n\nThis is for people who publish on a clock.\nYouTube's library is free and overused. Epidemic is a subscription for fresh beds.\nA copyright claim costs more than a month of music.\nSkip Epidemic if you post monthly. Buy it if daily uploads need new beds.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "YouTube\u2019s library is free and overused."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for people who publish on a clock."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "YouTube's library is free and overused. Epidemic is a subscription for fresh beds."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "A copyright claim costs more than a month of music."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Epidemic if you post monthly. Buy it if daily uploads need new beds."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_022_epidemic_vs_yt_audio_library",
+  "week": 11,
+  "slot": "long"
+}

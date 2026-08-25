@@ -1,0 +1,67 @@
+{
+  "title": "Free VPN vs NordVPN \u2014 what actually leaks?",
+  "youtube_title": "Free VPN vs NordVPN \u2014 what actually leaks?",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "nordvpn",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "nordvpn",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Free VPNs often sell your traffic.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Free VPNs often sell your traffic. NordVPN is the paid baseline. This is a practical test for travel Wi-Fi and public networks, not a fear ad.",
+    "This is for travel Wi-Fi, hotels, and shared networks. Not for cosplay hacking.",
+    "Free VPNs are free because you are the product. NordVPN is a bill.",
+    "A VPN does not make you invisible. It encrypts a hop. Logs and jurisdiction still matter.",
+    "Skip Nord if you only browse at home on fiber. Buy if you work from cafes and airports.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nFree VPN vs NordVPN \u2014 what actually leaks?\n\nFree VPNs often sell your traffic. NordVPN is the paid baseline. This is a practical test for travel Wi-Fi and public networks, not a fear ad.\n\nThis is for travel Wi-Fi, hotels, and shared networks. Not for cosplay hacking.\nFree VPNs are free because you are the product. NordVPN is a bill.\nA VPN does not make you invisible. It encrypts a hop. Logs and jurisdiction still matter.\nSkip Nord if you only browse at home on fiber. Buy if you work from cafes and airports.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Free VPNs often sell your traffic."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for travel Wi-Fi, hotels, and shared networks. Not for cosplay hacking."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Free VPNs are free because you are the product. NordVPN is a bill."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "A VPN does not make you invisible. It encrypts a hop. Logs and jurisdiction still matter."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Nord if you only browse at home on fiber. Buy if you work from cafes and airports."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_003_nordvpn_vs_free_vpn",
+  "week": 2,
+  "slot": "long"
+}

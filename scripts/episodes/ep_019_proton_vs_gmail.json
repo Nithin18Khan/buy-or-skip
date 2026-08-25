@@ -1,0 +1,67 @@
+{
+  "title": "Proton vs Gmail if privacy is the product",
+  "youtube_title": "Proton vs Gmail if privacy is the product",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "nordvpn",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "nordvpn",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Gmail is the default.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Gmail is the default. Proton is the lock. NordVPN does not replace either. We say who should move and who is performing privacy.",
+    "This is for people who sell privacy, or actually need it.",
+    "Gmail is free because the graph is the product. Proton is a bill.",
+    "A VPN is not a mail host. NordVPN does not replace Proton or Gmail.",
+    "Skip Proton if you live in Google Calendar. Buy Proton if leak risk is a real job risk.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nProton vs Gmail if privacy is the product\n\nGmail is the default. Proton is the lock. NordVPN does not replace either. We say who should move and who is performing privacy.\n\nThis is for people who sell privacy, or actually need it.\nGmail is free because the graph is the product. Proton is a bill.\nA VPN is not a mail host. NordVPN does not replace Proton or Gmail.\nSkip Proton if you live in Google Calendar. Buy Proton if leak risk is a real job risk.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Gmail is the default."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for people who sell privacy, or actually need it."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Gmail is free because the graph is the product. Proton is a bill."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "A VPN is not a mail host. NordVPN does not replace Proton or Gmail."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Proton if you live in Google Calendar. Buy Proton if leak risk is a real job risk."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_019_proton_vs_gmail",
+  "week": 10,
+  "slot": "long"
+}

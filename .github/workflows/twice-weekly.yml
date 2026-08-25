@@ -1,0 +1,64 @@
+name: Buy or Skip twice weekly
+
+on:
+  schedule:
+    # Monday + Thursday 06:30 IST
+    - cron: "0 1 * * 1,4"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: buy-or-skip
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    env:
+      PYTHONUNBUFFERED: "1"
+      YOUTUBE_CLIENT_SECRET_JSON: ${{ secrets.YOUTUBE_CLIENT_SECRET_JSON }}
+      YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - name: System
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core
+      - name: Dependencies
+        run: pip install -r requirements.txt
+      - name: One long + Short trailer
+        run: |
+          python main.py --status
+          if [ -n "${YOUTUBE_REFRESH_TOKEN}" ]; then
+            python main.py --next --upload
+          else
+            echo "No Buy or Skip YouTube secrets. Render only."
+            python main.py --next
+          fi
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/factory_state.json
+          if git diff --staged --quiet; then
+            echo "No state change"
+          else
+            git commit -m "factory: Buy or Skip episode"
+            git push
+          fi
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: last-buy-or-skip
+          path: |
+            output/**/*_long.mp4
+            output/**/*_short.mp4
+            output/**/thumbnail.jpg
+          if-no-files-found: ignore
+          retention-days: 7

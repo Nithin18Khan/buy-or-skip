@@ -1,0 +1,67 @@
+{
+  "title": "ChatGPT Plus vs free: who should pay?",
+  "youtube_title": "ChatGPT Plus vs free: who should pay?",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "amazon_in",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "amazon_in",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Free ChatGPT is slower and capped.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Free ChatGPT is slower and capped. Plus is a time buy. We time real tasks: rewrite, code stub, and research, then say when paying is stupid.",
+    "This is for people who already hit the free cap during work hours.",
+    "Plus is twenty dollars of queue-jumping. It is not a genius implant.",
+    "It still hallucinates citations. Paying does not make the model honest.",
+    "Skip Plus if you dabble on weekends. Buy if waiting on a spinner costs you clients.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nChatGPT Plus vs free: who should pay?\n\nFree ChatGPT is slower and capped. Plus is a time buy. We time real tasks: rewrite, code stub, and research, then say when paying is stupid.\n\nThis is for people who already hit the free cap during work hours.\nPlus is twenty dollars of queue-jumping. It is not a genius implant.\nIt still hallucinates citations. Paying does not make the model honest.\nSkip Plus if you dabble on weekends. Buy if waiting on a spinner costs you clients.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Free ChatGPT is slower and capped."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for people who already hit the free cap during work hours."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Plus is twenty dollars of queue-jumping. It is not a genius implant."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "It still hallucinates citations. Paying does not make the model honest."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Plus if you dabble on weekends. Buy if waiting on a spinner costs you clients."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_004_chatgpt_plus_vs_free",
+  "week": 2,
+  "slot": "long"
+}

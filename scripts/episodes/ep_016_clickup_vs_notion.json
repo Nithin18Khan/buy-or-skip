@@ -1,0 +1,67 @@
+{
+  "title": "ClickUp vs Notion for tasks you will actually do",
+  "youtube_title": "ClickUp vs Notion for tasks you will actually do",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "amazon_in",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "amazon_in",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "ClickUp is a cockpit.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "ClickUp is a cockpit. Notion is a wiki. If your board has 12 statuses you never touch, you bought a toy.",
+    "This is for tasks you will actually close this week.",
+    "ClickUp can become a cockpit you decorate instead of a list you finish.",
+    "Notion as a task app is a wiki in a trench coat.",
+    "Skip ClickUp if a paper list works. Buy it when multiple people need statuses that mean something.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nClickUp vs Notion for tasks you will actually do\n\nClickUp is a cockpit. Notion is a wiki. If your board has 12 statuses you never touch, you bought a toy.\n\nThis is for tasks you will actually close this week.\nClickUp can become a cockpit you decorate instead of a list you finish.\nNotion as a task app is a wiki in a trench coat.\nSkip ClickUp if a paper list works. Buy it when multiple people need statuses that mean something.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "ClickUp is a cockpit."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for tasks you will actually close this week."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "ClickUp can become a cockpit you decorate instead of a list you finish."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "Notion as a task app is a wiki in a trench coat."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip ClickUp if a paper list works. Buy it when multiple people need statuses that mean something."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_016_clickup_vs_notion",
+  "week": 8,
+  "slot": "long"
+}

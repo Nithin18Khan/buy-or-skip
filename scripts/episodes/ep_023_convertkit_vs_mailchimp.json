@@ -1,0 +1,67 @@
+{
+  "title": "ConvertKit vs Mailchimp for a tiny list",
+  "youtube_title": "ConvertKit vs Mailchimp for a tiny list",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "amazon_in",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "amazon_in",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Mailchimp got expensive for creators.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Mailchimp got expensive for creators. ConvertKit is built around a list you actually email. If you have 80 subscribers, keep it simple.",
+    "This is for a tiny list you will actually email.",
+    "Mailchimp got expensive for creators. ConvertKit is built around a list.",
+    "Eighty subscribers do not need an enterprise automation tree.",
+    "Skip both if you have no list. Buy ConvertKit when the email is the business.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nConvertKit vs Mailchimp for a tiny list\n\nMailchimp got expensive for creators. ConvertKit is built around a list you actually email. If you have 80 subscribers, keep it simple.\n\nThis is for a tiny list you will actually email.\nMailchimp got expensive for creators. ConvertKit is built around a list.\nEighty subscribers do not need an enterprise automation tree.\nSkip both if you have no list. Buy ConvertKit when the email is the business.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Mailchimp got expensive for creators."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for a tiny list you will actually email."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Mailchimp got expensive for creators. ConvertKit is built around a list."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "Eighty subscribers do not need an enterprise automation tree."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip both if you have no list. Buy ConvertKit when the email is the business."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_023_convertkit_vs_mailchimp",
+  "week": 12,
+  "slot": "long"
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Runway vs CapCut AI video tools",
+  "youtube_title": "Runway vs CapCut AI video tools",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "canva",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "canva",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Runway is a lab.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Runway is a lab. CapCut AI is a consumer button. We generate the same 4-second clip both ways and keep the one that does not look like sludge.",
+    "This is for people generating B-roll, not a feature film.",
+    "Runway is lab pricing. CapCut AI is a consumer button with a ceiling.",
+    "Both can look like sludge. Your job is to throw away the sludge.",
+    "Skip Runway if CapCut already gets a usable four seconds. Buy Runway when you need control.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nRunway vs CapCut AI video tools\n\nRunway is a lab. CapCut AI is a consumer button. We generate the same 4-second clip both ways and keep the one that does not look like sludge.\n\nThis is for people generating B-roll, not a feature film.\nRunway is lab pricing. CapCut AI is a consumer button with a ceiling.\nBoth can look like sludge. Your job is to throw away the sludge.\nSkip Runway if CapCut already gets a usable four seconds. Buy Runway when you need control.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Runway is a lab."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for people generating B-roll, not a feature film."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Runway is lab pricing. CapCut AI is a consumer button with a ceiling."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "Both can look like sludge. Your job is to throw away the sludge."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Runway if CapCut already gets a usable four seconds. Buy Runway when you need control."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_012_runway_vs_capcut_ai",
+  "week": 6,
+  "slot": "long"
+}

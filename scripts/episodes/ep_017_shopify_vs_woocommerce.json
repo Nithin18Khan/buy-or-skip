@@ -1,0 +1,67 @@
+{
+  "title": "Shopify vs WooCommerce for a first store",
+  "youtube_title": "Shopify vs WooCommerce for a first store",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "hostinger",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "hostinger",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Shopify is rent.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Shopify is rent. WooCommerce is homework plus hosting. Hostinger only matters if you pick Woo. We cost out 12 months.",
+    "This is for a first store, not a mall.",
+    "Shopify is rent. Woo is homework plus hosting \u2014 Hostinger only if you pick Woo.",
+    "Apps on both sides will eat the margin if you are not watching.",
+    "Skip Woo if you hate servers. Buy Shopify if speed to first sale matters more than control.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nShopify vs WooCommerce for a first store\n\nShopify is rent. WooCommerce is homework plus hosting. Hostinger only matters if you pick Woo. We cost out 12 months.\n\nThis is for a first store, not a mall.\nShopify is rent. Woo is homework plus hosting \u2014 Hostinger only if you pick Woo.\nApps on both sides will eat the margin if you are not watching.\nSkip Woo if you hate servers. Buy Shopify if speed to first sale matters more than control.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Shopify is rent."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for a first store, not a mall."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Shopify is rent. Woo is homework plus hosting \u2014 Hostinger only if you pick Woo."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "Apps on both sides will eat the margin if you are not watching."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Woo if you hate servers. Buy Shopify if speed to first sale matters more than control."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_017_shopify_vs_woocommerce",
+  "week": 9,
+  "slot": "long"
+}

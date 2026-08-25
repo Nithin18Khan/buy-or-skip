@@ -1,0 +1,67 @@
+{
+  "title": "Grammarly vs LanguageTool for client email",
+  "youtube_title": "Grammarly vs LanguageTool for client email",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "amazon_in",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "amazon_in",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Grammarly nags.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Grammarly nags. LanguageTool is quieter. If you send invoices, tone matters more than a premium upsell.",
+    "This is for client email, invoices, and proposals \u2014 not novels.",
+    "Grammarly Premium is a habit tax. LanguageTool is quieter.",
+    "Tone nags can make you sound like a bot. That loses deals.",
+    "Skip Grammarly if a browser checker is enough. Buy it only if a team shares a style.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nGrammarly vs LanguageTool for client email\n\nGrammarly nags. LanguageTool is quieter. If you send invoices, tone matters more than a premium upsell.\n\nThis is for client email, invoices, and proposals \u2014 not novels.\nGrammarly Premium is a habit tax. LanguageTool is quieter.\nTone nags can make you sound like a bot. That loses deals.\nSkip Grammarly if a browser checker is enough. Buy it only if a team shares a style.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Grammarly nags."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for client email, invoices, and proposals \u2014 not novels."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Grammarly Premium is a habit tax. LanguageTool is quieter."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "Tone nags can make you sound like a bot. That loses deals."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Grammarly if a browser checker is enough. Buy it only if a team shares a style."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_014_grammarly_vs_languagetool",
+  "week": 7,
+  "slot": "long"
+}

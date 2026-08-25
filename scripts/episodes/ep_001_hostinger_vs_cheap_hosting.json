@@ -1,0 +1,67 @@
+{
+  "title": "Is Hostinger actually cheaper than budget hosting?",
+  "youtube_title": "Is Hostinger actually cheaper than budget hosting?",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "hostinger",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "hostinger",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Cheap hosting looks cheap until support and speed collapse.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Cheap hosting looks cheap until support and speed collapse. Hostinger is the tool we test against a no-name plan. I show what you get for the money, where it breaks, and who should skip it.",
+    "This is for someone launching a real site this month, not collecting free subdomains.",
+    "The homepage price is a tease. Ask what month thirteen costs after the promo.",
+    "Cheap panels die when traffic spikes or when you need a human, not a chatbot.",
+    "Skip Hostinger if you need enterprise SLAs or a dedicated ops team. Buy if you want a clean panel and a price that still makes sense after the sale banner dies.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nIs Hostinger actually cheaper than budget hosting?\n\nCheap hosting looks cheap until support and speed collapse. Hostinger is the tool we test against a no-name plan. I show what you get for the money, where it breaks, and who should skip it.\n\nThis is for someone launching a real site this month, not collecting free subdomains.\nThe homepage price is a tease. Ask what month thirteen costs after the promo.\nCheap panels die when traffic spikes or when you need a human, not a chatbot.\nSkip Hostinger if you need enterprise SLAs or a dedicated ops team. Buy if you want a clean panel and a price that still makes sense after the sale banner dies.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Cheap hosting looks cheap until support and speed collapse."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for someone launching a real site this month, not collecting free subdomains."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "The homepage price is a tease. Ask what month thirteen costs after the promo."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "Cheap panels die when traffic spikes or when you need a human, not a chatbot."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Hostinger if you need enterprise SLAs or a dedicated ops team. Buy if you want a clean panel and a price that still makes sense after the sale banner dies."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_001_hostinger_vs_cheap_hosting",
+  "week": 1,
+  "slot": "long"
+}

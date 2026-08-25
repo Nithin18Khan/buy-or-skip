@@ -1,0 +1,39 @@
+{
+  "primary_programs": [
+    {
+      "id": "hostinger",
+      "name": "Hostinger",
+      "join_url": "https://www.hostinger.com/affiliates",
+      "payout": "High per sale / sometimes recurring",
+      "use_when": "website, hosting, domain, WordPress"
+    },
+    {
+      "id": "canva",
+      "name": "Canva Pro",
+      "join_url": "https://www.canva.com/affiliates/",
+      "payout": "Recurring SaaS",
+      "use_when": "design, thumbnails, presentations"
+    },
+    {
+      "id": "nordvpn",
+      "name": "NordVPN",
+      "join_url": "https://nordvpn.com/affiliates/",
+      "payout": "$40–$100+ per sale typical public range",
+      "use_when": "privacy, travel Wi-Fi, security"
+    }
+  ],
+  "side_bucket": [
+    {
+      "id": "amazon_in",
+      "name": "Amazon.in Associates",
+      "join_url": "https://affiliate-program.amazon.in/",
+      "payout": "1–9% category rates, 24h cookie",
+      "use_when": "cables, mics, lights — never the core offer"
+    }
+  ],
+  "rules": [
+    "One primary affiliate id per episode",
+    "Paste your real tracking URL into affiliates.tracking_url before upload",
+    "Never use kids-channel or gaming-channel links"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "channel_name": "Buy or Skip",
+  "handle": "@BuyOrSkip",
+  "tagline": "Adult tool reviews. One verdict.",
+  "youtube_channel_id": "",
+  "youtube_studio": "",
+  "audience": "18+",
+  "made_for_kids": false,
+  "language": "en",
+  "format": {
+    "long_form": {
+      "aspect": "16:9",
+      "width": 1920,
+      "height": 1080,
+      "fps": 30,
+      "duration_sec_target": [180, 720]
+    },
+    "short_trailer": {
+      "aspect": "9:16",
+      "width": 1080,
+      "height": 1920,
+      "fps": 30,
+      "duration_sec_target": [20, 40]
+    }
+  },
+  "upload": {
+    "privacy_status": "public",
+    "category_id": "28",
+    "category_name": "Science & Technology",
+    "default_language": "en",
+    "timezone": "Asia/Kolkata"
+  },
+  "cadence": {
+    "long_per_week": 2,
+    "shorts_per_week": 6
+  },
+  "disclosure": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you."
+}

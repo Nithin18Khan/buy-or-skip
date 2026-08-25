@@ -1,0 +1,67 @@
+{
+  "title": "Obsidian vs Notion for notes you own",
+  "youtube_title": "Obsidian vs Notion for notes you own",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "amazon_in",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "amazon_in",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Obsidian files live on disk.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Obsidian files live on disk. Notion lives in their cloud. If you write for years, that difference is the review.",
+    "This is for notes you might still need in ten years.",
+    "Notion can lock the graph in their cloud. Obsidian files sit on disk.",
+    "Pretty databases are not the same as files you can zip.",
+    "Skip Obsidian if you want pretty sharing. Buy it if ownership is the feature.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nObsidian vs Notion for notes you own\n\nObsidian files live on disk. Notion lives in their cloud. If you write for years, that difference is the review.\n\nThis is for notes you might still need in ten years.\nNotion can lock the graph in their cloud. Obsidian files sit on disk.\nPretty databases are not the same as files you can zip.\nSkip Obsidian if you want pretty sharing. Buy it if ownership is the feature.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Obsidian files live on disk."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for notes you might still need in ten years."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Notion can lock the graph in their cloud. Obsidian files sit on disk."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "Pretty databases are not the same as files you can zip."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Obsidian if you want pretty sharing. Buy it if ownership is the feature."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_020_obsidian_vs_notion",
+  "week": 10,
+  "slot": "long"
+}

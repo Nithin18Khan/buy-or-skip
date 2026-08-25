@@ -1,0 +1,67 @@
+{
+  "title": "CapCut desktop vs phone: which should editors use?",
+  "youtube_title": "CapCut desktop vs phone: which should editors use?",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "amazon_in",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "amazon_in",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Phone CapCut is fast.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Phone CapCut is fast. Desktop is the real cut. We edit the same 60-second promo on both and show where mobile lies to you.",
+    "This is for editors who think the phone app is the whole product.",
+    "Mobile exports lie about bitrate. Desktop is where the timeline is real.",
+    "Phone CapCut is fine for stories. It chokes on multi-cam and long VO.",
+    "Skip desktop if you only post Stories. Buy the desktop habit if this is income.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nCapCut desktop vs phone: which should editors use?\n\nPhone CapCut is fast. Desktop is the real cut. We edit the same 60-second promo on both and show where mobile lies to you.\n\nThis is for editors who think the phone app is the whole product.\nMobile exports lie about bitrate. Desktop is where the timeline is real.\nPhone CapCut is fine for stories. It chokes on multi-cam and long VO.\nSkip desktop if you only post Stories. Buy the desktop habit if this is income.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Phone CapCut is fast."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for editors who think the phone app is the whole product."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Mobile exports lie about bitrate. Desktop is where the timeline is real."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "Phone CapCut is fine for stories. It chokes on multi-cam and long VO."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip desktop if you only post Stories. Buy the desktop habit if this is income."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_006_capcut_desktop_vs_phone",
+  "week": 3,
+  "slot": "long"
+}

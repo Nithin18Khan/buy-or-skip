@@ -1,0 +1,67 @@
+{
+  "title": "Stripe vs PayPal for getting paid",
+  "youtube_title": "Stripe vs PayPal for getting paid",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "amazon_in",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "amazon_in",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "PayPal is everywhere.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "PayPal is everywhere. Stripe is cleaner for subscriptions. Fees and holds matter more than the logo on the button.",
+    "This is for getting paid, not collecting logos.",
+    "PayPal holds and fees surprise new sellers. Stripe is cleaner for subscriptions.",
+    "The button that customers already trust will convert, even if it is uglier.",
+    "Skip Stripe if your buyers only have PayPal. Buy Stripe when subscriptions are the model.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nStripe vs PayPal for getting paid\n\nPayPal is everywhere. Stripe is cleaner for subscriptions. Fees and holds matter more than the logo on the button.\n\nThis is for getting paid, not collecting logos.\nPayPal holds and fees surprise new sellers. Stripe is cleaner for subscriptions.\nThe button that customers already trust will convert, even if it is uglier.\nSkip Stripe if your buyers only have PayPal. Buy Stripe when subscriptions are the model.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "PayPal is everywhere."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for getting paid, not collecting logos."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "PayPal holds and fees surprise new sellers. Stripe is cleaner for subscriptions."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "The button that customers already trust will convert, even if it is uglier."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Stripe if your buyers only have PayPal. Buy Stripe when subscriptions are the model."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_018_stripe_vs_paypal",
+  "week": 9,
+  "slot": "long"
+}

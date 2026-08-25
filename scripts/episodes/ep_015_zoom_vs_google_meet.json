@@ -1,0 +1,67 @@
+{
+  "title": "Zoom vs Google Meet for client calls",
+  "youtube_title": "Zoom vs Google Meet for client calls",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "amazon_in",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "amazon_in",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Meet is free if you already live in Gmail.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Meet is free if you already live in Gmail. Zoom still wins recordings and breakout rooms. Pick from your calendar, not from ads.",
+    "This is for paid calls, not family gossip.",
+    "Meet is free inside Gmail. Zoom still wins recordings and rooms.",
+    "The wrong tool is the one that is not on your client's calendar.",
+    "Skip Zoom if your whole world is Google. Buy Zoom when recordings are the deliverable.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nZoom vs Google Meet for client calls\n\nMeet is free if you already live in Gmail. Zoom still wins recordings and breakout rooms. Pick from your calendar, not from ads.\n\nThis is for paid calls, not family gossip.\nMeet is free inside Gmail. Zoom still wins recordings and rooms.\nThe wrong tool is the one that is not on your client's calendar.\nSkip Zoom if your whole world is Google. Buy Zoom when recordings are the deliverable.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Meet is free if you already live in Gmail."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for paid calls, not family gossip."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Meet is free inside Gmail. Zoom still wins recordings and rooms."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "The wrong tool is the one that is not on your client's calendar."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Zoom if your whole world is Google. Buy Zoom when recordings are the deliverable."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_015_zoom_vs_google_meet",
+  "week": 8,
+  "slot": "long"
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Riverside vs Zoom for podcast recording",
+  "youtube_title": "Riverside vs Zoom for podcast recording",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "amazon_in",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "amazon_in",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Zoom recordings are convenient and compressed.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Zoom recordings are convenient and compressed. Riverside is local tracks. If audio is the product, pay for tracks.",
+    "This is for podcasts and interviews where audio is the product.",
+    "Zoom is convenient and compressed. Riverside is local tracks and a bill.",
+    "If you transcribe garbage in, you edit garbage all week.",
+    "Skip Riverside for internal standups. Buy it when the episode is public.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nRiverside vs Zoom for podcast recording\n\nZoom recordings are convenient and compressed. Riverside is local tracks. If audio is the product, pay for tracks.\n\nThis is for podcasts and interviews where audio is the product.\nZoom is convenient and compressed. Riverside is local tracks and a bill.\nIf you transcribe garbage in, you edit garbage all week.\nSkip Riverside for internal standups. Buy it when the episode is public.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Zoom recordings are convenient and compressed."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for podcasts and interviews where audio is the product."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Zoom is convenient and compressed. Riverside is local tracks and a bill."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "If you transcribe garbage in, you edit garbage all week."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Riverside for internal standups. Buy it when the episode is public."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_021_riverside_vs_zoom_record",
+  "week": 11,
+  "slot": "long"
+}

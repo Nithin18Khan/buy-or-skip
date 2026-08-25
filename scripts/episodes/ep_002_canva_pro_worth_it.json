@@ -1,0 +1,67 @@
+{
+  "title": "Is Canva Pro worth paying for?",
+  "youtube_title": "Is Canva Pro worth paying for?",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "canva",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "canva",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Free Canva is enough for a school poster.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Free Canva is enough for a school poster. Pro is for people who ship thumbnails every week. We compare Brand Kit, background remover, and Magic Studio against the free tier.",
+    "This is for people who ship graphics on a schedule: thumbnails, ads, pitch decks.",
+    "Pro looks cheap until you forget to cancel the annual plan you do not use.",
+    "Free Canva blocks Brand Kit and treats background remover like a drip.",
+    "Skip Pro if you design twice a year. Buy if Canva is already your job, not a toy.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nIs Canva Pro worth paying for?\n\nFree Canva is enough for a school poster. Pro is for people who ship thumbnails every week. We compare Brand Kit, background remover, and Magic Studio against the free tier.\n\nThis is for people who ship graphics on a schedule: thumbnails, ads, pitch decks.\nPro looks cheap until you forget to cancel the annual plan you do not use.\nFree Canva blocks Brand Kit and treats background remover like a drip.\nSkip Pro if you design twice a year. Buy if Canva is already your job, not a toy.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Free Canva is enough for a school poster."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for people who ship graphics on a schedule: thumbnails, ads, pitch decks."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Pro looks cheap until you forget to cancel the annual plan you do not use."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "Free Canva blocks Brand Kit and treats background remover like a drip."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Pro if you design twice a year. Buy if Canva is already your job, not a toy."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_002_canva_pro_worth_it",
+  "week": 1,
+  "slot": "long"
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Midjourney vs free AI images for YouTube thumbs",
+  "youtube_title": "Midjourney vs free AI images for YouTube thumbs",
+  "channel": "Buy or Skip",
+  "language": "en",
+  "made_for_kids": false,
+  "verdict_prompt": "BUY, WAIT, or SKIP",
+  "affiliate": {
+    "program": "canva",
+    "tracking_url": ""
+  },
+  "tags": [
+    "review",
+    "tools",
+    "BuyOrSkip",
+    "canva",
+    "english"
+  ],
+  "narration": [
+    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+    "Free image models are noisy.",
+    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
+    "Free image models are noisy. Midjourney is spendy. Canva Magic Studio sits in the middle. We make three thumbnails and pick a stack.",
+    "This is for thumbnail makers, not art-school arguments.",
+    "Midjourney is a subscription. Free models cost you time and cleanup.",
+    "Canva Magic sits in the middle: faster, less control, good enough for many thumbs.",
+    "Skip Midjourney if you cannot prompt. Buy it when unique stills are the channel look.",
+    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
+    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  ],
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nMidjourney vs free AI images for YouTube thumbs\n\nFree image models are noisy. Midjourney is spendy. Canva Magic Studio sits in the middle. We make three thumbnails and pick a stack.\n\nThis is for thumbnail makers, not art-school arguments.\nMidjourney is a subscription. Free models cost you time and cleanup.\nCanva Magic sits in the middle: faster, less control, good enough for many thumbs.\nSkip Midjourney if you cannot prompt. Buy it when unique stills are the channel look.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "shots": [
+    {
+      "id": "hook",
+      "label": "HOOK",
+      "line": "Free image models are noisy."
+    },
+    {
+      "id": "who",
+      "label": "WHO IT IS FOR",
+      "line": "This is for thumbnail makers, not art-school arguments."
+    },
+    {
+      "id": "price",
+      "label": "REAL PRICE",
+      "line": "Midjourney is a subscription. Free models cost you time and cleanup."
+    },
+    {
+      "id": "catch",
+      "label": "THE CATCH",
+      "line": "Canva Magic sits in the middle: faster, less control, good enough for many thumbs."
+    },
+    {
+      "id": "verdict",
+      "label": "VERDICT",
+      "line": "Skip Midjourney if you cannot prompt. Buy it when unique stills are the channel look."
+    },
+    {
+      "id": "end",
+      "label": "BUY OR SKIP",
+      "line": "One link. One offer."
+    }
+  ],
+  "id": "ep_008_midjourney_vs_free_ai_images",
+  "week": 4,
+  "slot": "long"
+}
