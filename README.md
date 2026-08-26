@@ -17,9 +17,13 @@ Not Kids Edu Shorts. English. 18+. Affiliate-first.
 cd $env:USERPROFILE\OneDrive\Desktop\money-tools-yt
 pip install -r requirements.txt
 python main.py --check
+python main.py --status
+python main.py --check-links
 python main.py --plan-90
 python main.py --next
 ```
+
+Uploads continue until YouTube ads + affiliate totals hit **$1,000,000**, then stop. Affiliate dashboards are not public APIs — set GitHub variable `AFFILIATE_REVENUE_USD` and tracking URL secrets.
 
 Episode 1 output:
 

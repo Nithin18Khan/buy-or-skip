@@ -25,11 +25,13 @@ def program_color(episode: dict) -> tuple[int, int, int]:
 
 
 def fonts() -> tuple[Path, Path]:
-    windir = Path(r"C:\Windows\Fonts")
-    bold = windir / "segoeuib.ttf"
-    regular = windir / "segoeui.ttf"
-    if not bold.exists():
-        bold = windir / "arialbd.ttf"
-    if not regular.exists():
-        regular = windir / "arial.ttf"
-    return bold, regular
+    candidates = [
+        (Path(r"C:\Windows\Fonts\segoeuib.ttf"), Path(r"C:\Windows\Fonts\segoeui.ttf")),
+        (Path(r"C:\Windows\Fonts\arialbd.ttf"), Path(r"C:\Windows\Fonts\arial.ttf")),
+        (Path("/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"), Path("/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf")),
+        (Path("/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"), Path("/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf")),
+    ]
+    for bold, regular in candidates:
+        if bold.exists() and regular.exists():
+            return bold, regular
+    raise FileNotFoundError("No usable TTF fonts (Segoe/Arial/DejaVu/Liberation)")

@@ -1,6 +1,11 @@
 {
+  "id": "ep_001_hostinger_vs_cheap_hosting",
+  "week": 1,
+  "slot": "long",
+  "lock_script": true,
+  "format": "auto",
   "title": "Is Hostinger actually cheaper than budget hosting?",
-  "youtube_title": "Is Hostinger actually cheaper than budget hosting?",
+  "youtube_title": "Hostinger $2.99 vs $10.99: Buy or Skip? (2026)",
   "channel": "Buy or Skip",
   "language": "en",
   "made_for_kids": false,
@@ -9,59 +14,241 @@
     "program": "hostinger",
     "tracking_url": ""
   },
+  "facts": {
+    "promo": "$2.99/mo",
+    "renewal": "$10.99/mo",
+    "term": "48-month lock for the teaser rate",
+    "prepaid": "~$144 paid up front",
+    "verdict": "BUY",
+    "thumb_title": "Hostinger $2.99 vs $10.99",
+    "left_note": "homepage tease",
+    "right_note": "renewal bill",
+    "source": "Hostinger pricing page, Aug 2026: Premium ~$2.99/mo on 48 months ($143.52), renews ~$10.99/mo. Prices move. Recheck before you pay."
+  },
+  "hashtags": ["#Hostinger", "#WebHosting", "#BuyOrSkip"],
   "tags": [
-    "review",
-    "tools",
+    "hostinger review",
+    "hostinger vs cheap hosting",
+    "hostinger renewal",
+    "web hosting 2026",
+    "wordpress hosting",
     "BuyOrSkip",
-    "hostinger",
+    "review",
     "english"
   ],
-  "narration": [
-    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
-    "Cheap hosting looks cheap until support and speed collapse.",
-    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
-    "Cheap hosting looks cheap until support and speed collapse. Hostinger is the tool we test against a no-name plan. I show what you get for the money, where it breaks, and who should skip it.",
-    "This is for someone launching a real site this month, not collecting free subdomains.",
-    "The homepage price is a tease. Ask what month thirteen costs after the promo.",
-    "Cheap panels die when traffic spikes or when you need a human, not a chatbot.",
-    "Skip Hostinger if you need enterprise SLAs or a dedicated ops team. Buy if you want a clean panel and a price that still makes sense after the sale banner dies.",
-    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
-    "This is Buy or Skip. English. Eighteen plus. Not for children."
+  "short_narration": [
+    "Do not buy Hostinger from the homepage price.",
+    "Two dollars ninety-nine is the sale screenshot.",
+    "Ten dollars ninety-nine is the bill after the term.",
+    "Forty-eight months means about one hundred forty-four dollars today.",
+    "Full math on the channel. Recheck the live price before you pay."
   ],
-  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nIs Hostinger actually cheaper than budget hosting?\n\nCheap hosting looks cheap until support and speed collapse. Hostinger is the tool we test against a no-name plan. I show what you get for the money, where it breaks, and who should skip it.\n\nThis is for someone launching a real site this month, not collecting free subdomains.\nThe homepage price is a tease. Ask what month thirteen costs after the promo.\nCheap panels die when traffic spikes or when you need a human, not a chatbot.\nSkip Hostinger if you need enterprise SLAs or a dedicated ops team. Buy if you want a clean panel and a price that still makes sense after the sale banner dies.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nHostinger $2.99 vs $10.99: Buy or Skip? (2026)\n\nThe homepage teaser is about $2.99/mo if you lock 48 months — about $144 up front. After that term it renews near $10.99/mo. This review is that gap: who the plan is for, what the panel actually gives you, and who should skip it.\n\nBUY Premium if you are launching a real site this month and the month-13 math still works.\nSKIP Premium if you need daily backups on day one, a dedicated ops team, or you will not prepay four years.\n\nPrices move. Open the Hostinger page and recheck today's number before you pay.\n\nChapters\n{chapters}\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.",
   "shots": [
     {
       "id": "hook",
       "label": "HOOK",
-      "line": "Cheap hosting looks cheap until support and speed collapse."
+      "line": "Do not buy Hostinger from the homepage price."
     },
     {
       "id": "who",
       "label": "WHO IT IS FOR",
-      "line": "This is for someone launching a real site this month, not collecting free subdomains."
+      "line": "A real site this month. Not free subdomain collecting."
     },
     {
       "id": "price",
       "label": "REAL PRICE",
-      "line": "The homepage price is a tease. Ask what month thirteen costs after the promo."
+      "line": "Forty-eight months at $2.99 is the screenshot. $10.99 is the bill after the term."
     },
     {
       "id": "catch",
       "label": "THE CATCH",
-      "line": "Cheap panels die when traffic spikes or when you need a human, not a chatbot."
+      "line": "Weekly backups. Three sites. Tight storage. Chat is not an enterprise SLA."
     },
     {
       "id": "verdict",
       "label": "VERDICT",
-      "line": "Skip Hostinger if you need enterprise SLAs or a dedicated ops team. Buy if you want a clean panel and a price that still makes sense after the sale banner dies."
+      "line": "Skip if you need ops or daily backups on day one. Buy Premium if the month-13 math still works."
     },
     {
       "id": "end",
       "label": "BUY OR SKIP",
-      "line": "One link. One offer."
+      "line": "One Hostinger link in the description. Recheck the live price before you pay."
     }
   ],
-  "id": "ep_001_hostinger_vs_cheap_hosting",
-  "week": 1,
-  "slot": "long"
+  "chapters": [
+    {
+      "id": "hook",
+      "label": "The homepage price is a trap",
+      "record": "Record the live Hostinger pricing or checkout page. Crop the $2.99 teaser and the $10.99 renewal on the same screen. No talking head required. Slow scroll, 20–40 seconds of raw footage.",
+      "capture_url": "https://www.hostinger.com/web-hosting",
+      "narration": [
+        "Do not buy Hostinger from the homepage price.",
+        "Two dollars ninety-nine a month is the sale screenshot.",
+        "After the term, it renews near ten dollars ninety-nine a month.",
+        "If you lock forty-eight months to get that teaser, you pay about one hundred forty-four dollars today.",
+        "That gap is the review.",
+        "Cheap hosts copy the two ninety-nine number and fall over when you need a human.",
+        "Hostinger's sale is real. The renewal is also real.",
+        "If you only remember one thing, remember month thirteen, not the banner."
+      ]
+    },
+    {
+      "id": "disclosure",
+      "label": "Before we start",
+      "record": "Hold the same pricing page. No extra graphics.",
+      "narration": [
+        "Some links in the description are affiliate.",
+        "You pay the same price either way.",
+        "Recheck the live page before you pay. Promos move."
+      ]
+    },
+    {
+      "id": "who",
+      "label": "Who this is for",
+      "record": "Show a blank browser, then a simple site type: shop, portfolio, or WordPress dashboard login. Cut anything that looks like a tutorial channel intro.",
+      "capture_url": "https://www.hostinger.com/wordpress-hosting",
+      "narration": [
+        "This is for someone launching a real site this month.",
+        "A shop. A portfolio. A WordPress install you will actually keep.",
+        "Not twenty free subdomains you forget in a week.",
+        "If you are testing a name and you might delete it on Friday, you do not need a four-year prepay.",
+        "Use a free preview. Come back when the site has a job.",
+        "If you need a dedicated ops team, daily backups on day one, or you refuse to prepay four years, skip Premium.",
+        "I will say that again at the verdict.",
+        "If you are launching this month, you want a clean panel, and you already ran the month-thirteen math, stay.",
+        "A freelancer with one client site and a personal page is in the buy bucket if the prepaid total is fine.",
+        "An agency parking ten brands on one account is not. That is a different product.",
+        "If your only plan is 'I will put a coming soon page up and think later,' skip. Hosting is not a mood."
+      ]
+    },
+    {
+      "id": "price",
+      "label": "The real bill",
+      "record": "Screen-record Hostinger Premium: term dropdown on 48 months, the monthly teaser, the total due today, then switch the term if the page shows renewal. Highlight renewal with your cursor. Stay on the real page. Do not fake numbers.",
+      "capture_url": "https://www.hostinger.com/pricing",
+      "narration": [
+        "Here is the bill, not the ad.",
+        "Premium at two dollars ninety-nine a month is the forty-eight month lock.",
+        "Times forty-eight is about one hundred forty-four dollars. That is what leaves your account today.",
+        "You are not paying three dollars a month on a card that you can cancel next Tuesday.",
+        "You are buying four years of hosting in one checkout.",
+        "After that term, the same plan renews near ten dollars ninety-nine a month.",
+        "That is about one hundred thirty-two dollars a year if nothing else changes.",
+        "Month thirteen is the honest monthly number for anyone who stays.",
+        "A no-name host will match the teaser and hide the renewal in a smaller font.",
+        "If their renewal is the same or worse, and support is a ticket void, you did not save money. You bought risk.",
+        "If Hostinger's live page shows a different teaser today, believe the page, not this video.",
+        "Write the prepaid total and the renewal on a note before you click pay.",
+        "Do the ugly version of the math. One hundred forty-four now, then about eleven a month after the term if the page still says ten ninety-nine.",
+        "Ask what a rebuild costs if the cheap host dies in month six. Migration, downtime, emails that bounce, a shop that is offline on a Saturday.",
+        "That rebuild is usually more than the Hostinger gap.",
+        "Also look at the term dropdown. Twelve months looks friendlier. Forty-eight is how they print the screenshot.",
+        "If you only commit to a year, the monthly teaser is higher. That is honest. Pick the term you can actually keep."
+      ]
+    },
+    {
+      "id": "panel",
+      "label": "What you actually get",
+      "record": "Log into hPanel. Record: home, WordPress one-click install through the first success screen, the site list showing the three-site cap, SSL, and file manager. Keep the cursor slow. This chapter is the reason a stranger trusts the verdict.",
+      "capture_url": "https://www.hostinger.com/hpanel",
+      "narration": [
+        "This is the part cheap-host ads skip. The panel.",
+        "Hostinger's hPanel is built for someone who has not lived in cPanel for ten years.",
+        "You get a WordPress button that actually finishes. Domain, theme, first login, without a scavenger hunt.",
+        "Premium is three sites. Not unlimited. If you already have a client site, a shop, and a staging box, you are at the ceiling.",
+        "Need a fourth? You are looking at Business or a second account. Do that math before checkout, not after.",
+        "SSL is in the flow. You should not be buying a separate certificate for a normal site.",
+        "File manager, email, and backups sit in one place. That is the beginner win.",
+        "A two-dollar unknown host often hands you a dusty cPanel, a queue, and a knowledge base from 2014.",
+        "If you can install WordPress and find the backup toggle without a Reddit thread, the panel did its job.",
+        "Watch the site list. Three slots. That is the plan, not a bug.",
+        "If your work needs a fourth live site this month, Premium is already the wrong tier.",
+        "On a first launch, do this in order. Point the domain. Install WordPress. Turn on SSL. Make one backup before you install plugins.",
+        "Then add a cache plugin that matches LiteSpeed if the panel offers it. Do not stack five cache plugins.",
+        "Email: if clients will mail you at that domain, create the box on day one. Do not wait until a form fails.",
+        "Staging: Premium is tight. If you need a safe copy of the shop, that third slot is your staging site, not a third brand.",
+        "That is how you use three sites without painting yourself into a corner."
+      ]
+    },
+    {
+      "id": "speed",
+      "label": "Speed versus cheap hosting",
+      "record": "Record a homepage load on Hostinger WordPress with the network panel or a simple speed tool, then the same page type on a cheap host if you have one. Show TTFB or fully loaded time. No fake graphs.",
+      "capture_url": "https://www.hostinger.com/web-hosting",
+      "narration": [
+        "Speed is why people leave a shop before they see the price.",
+        "Hostinger puts LiteSpeed on these plans. That is a real stack, not a slogan.",
+        "A no-name host is often leftover Apache, no cache, a noisy neighbor, and a disk that feels like 2012.",
+        "You feel it on first paint and on the cart.",
+        "LiteSpeed plus a cache plugin is the edge at this price if the site is built clean.",
+        "It will not save a theme with twenty sliders and forty scripts.",
+        "If your cheap host already serves a static page in under a second, you may not feel a miracle.",
+        "If that cheap host stutters when three people open the shop, the two ninety-nine screenshot was the expensive choice.",
+        "I am not going to invent a score. After you install, run your own URL.",
+        "Look at first paint and the cart, not a homepage animation.",
+        "If three people opening the shop makes the cheap host stutter, the teaser was the expensive choice.",
+        "Cheap hosts also share disks with hundreds of other sites. When a neighbor gets hit with bots, your cart slows down and you think WordPress is broken.",
+        "LiteSpeed will not fix a giant uncompressed hero image. Compress the image. Then judge the host.",
+        "If you sell from India, the United States, or Europe, pick the data center closest to the buyer, not closest to you, unless you are the only user.",
+        "That choice matters more than a one-point difference on a speed meme."
+      ]
+    },
+    {
+      "id": "catch",
+      "label": "The catch",
+      "record": "Open backup settings and show Weekly, not Daily. Open storage and site limits. Open the support chat widget so the viewer sees it is chat, not a phone SLA.",
+      "capture_url": "https://www.hostinger.com/web-hosting",
+      "narration": [
+        "Here is what the sale banner does not say.",
+        "Premium backups are weekly, not daily.",
+        "If you break the site on a Tuesday, you may be rolling back to last week.",
+        "A shop that takes orders every day should not treat weekly as good enough.",
+        "Those people buy a daily backup add-on, or they buy Business, or they skip this tier.",
+        "Three sites. Tight storage. Traffic has a ceiling.",
+        "A launch week spike can push you off Premium. That is not a scandal. It is the product you bought.",
+        "Support is chat. It is not an enterprise phone tree with a named rep.",
+        "Fine for a portfolio. Bad if your company needs a contract and an uptime clause.",
+        "You also prepaid four years. Leaving early is not a clean monthly cancel.",
+        "If any of those lines are a problem, the honest verdict for you is skip, not wait-and-see.",
+        "Storage fills up with backups, plugin updates, and a shop that grew product photos.",
+        "If you already know you will upload raw video to this plan, you are on the wrong tier.",
+        "Chat support is fine at two in the afternoon. It is a different feeling at eleven at night when checkout is down.",
+        "If your business dies when chat is slow, you need a host that sells a phone path and a contract. That is not this video's buy case.",
+        "Read the refund window on the live page before you prepay four years. If you cannot live with that window, skip."
+      ]
+    },
+    {
+      "id": "verdict",
+      "label": "Verdict",
+      "record": "Hold a split: Hostinger checkout on the left, a notes app with BUY and SKIP lines on the right. No celebration music.",
+      "narration": [
+        "Verdict.",
+        "Buy Hostinger Premium if you are launching a real site this month, you want a clean panel, and the prepaid total plus the ten ninety-nine renewal still makes sense on a piece of paper.",
+        "Skip Premium if you need daily backups on day one, more than three sites, a dedicated ops team, or you will not prepay four years.",
+        "Skip the no-name host if their only pitch is a number that matches the banner.",
+        "Wait if your site is still a maybe. A domain you might not use is not a four-year hosting decision.",
+        "I am not telling every person on earth to buy.",
+        "I am telling the person with a real launch and a worked renewal number that Premium is the plan I would use.",
+        "If the live price moved, the verdict moves with it. Recheck, then decide.",
+        "Buy means Premium for a real first site, not every Hostinger plan on the grid.",
+        "If you already know you need daily backups and more sites, look at Business on the same page and run the same renewal math.",
+        "I will not pretend Premium is a server for a company with a legal team.",
+        "I will not pretend a random cheap host is cheaper if it dies when you get traffic."
+      ]
+    },
+    {
+      "id": "cta",
+      "label": "One link, live price",
+      "record": "End on the live Hostinger page with the current price visible. Cursor rests on the plan name, not a countdown gimmick.",
+      "capture_url": "https://www.hostinger.com/web-hosting",
+      "narration": [
+        "One Hostinger link in the description. That is the offer. Not a pile of twenty tools.",
+        "Open it. Read today's teaser, today's total, and today's renewal.",
+        "If month thirteen still works, use that page and check out there.",
+        "If it does not, do not buy because a video told you to.",
+        "This is Buy or Skip. One verdict. Recheck the live price before you pay."
+      ]
+    }
+  ]
 }

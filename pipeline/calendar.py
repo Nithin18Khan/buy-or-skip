@@ -244,6 +244,19 @@ def write_90_day(root: Path) -> Path:
         body["week"] = week
         body["slot"] = "long"
         path = ep_dir / f"{eid}.json"
+        if path.exists():
+            existing = json.loads(path.read_text(encoding="utf-8"))
+            if existing.get("lock_script"):
+                manifest.append(
+                    {
+                        "id": eid,
+                        "file": str(path.relative_to(root)).replace("\\", "/"),
+                        "title": str(existing.get("title") or title),
+                        "program": program,
+                        "week": week,
+                    }
+                )
+                continue
         path.write_text(json.dumps(body, indent=2) + "\n", encoding="utf-8")
         manifest.append({"id": eid, "file": str(path.relative_to(root)).replace("\\", "/"), "title": title, "program": program, "week": week})
     man_path = root / "scripts" / "calendar" / "90day.json"

@@ -1,24 +1,31 @@
 {
+  "checked_at": "2026-08-25",
   "primary_programs": [
     {
       "id": "hostinger",
       "name": "Hostinger",
       "join_url": "https://www.hostinger.com/affiliates",
-      "payout": "High per sale / sometimes recurring",
+      "signup_url": "https://affiliates.hostinger.com/signup",
+      "dashboard_url": "https://affiliates.hostinger.com",
+      "payout": "About 40% per eligible hosting sale; cookie ~30 days",
       "use_when": "website, hosting, domain, WordPress"
     },
     {
       "id": "canva",
       "name": "Canva Pro",
-      "join_url": "https://www.canva.com/affiliates/",
-      "payout": "Recurring SaaS",
-      "use_when": "design, thumbnails, presentations"
+      "join_url": "https://www.canva.com/help/canva-affiliate-marketing-program/",
+      "signup_url": "https://public.canva.site/canvassadors",
+      "payout": "Affiliate access is through Canvassador (applications open in windows)",
+      "use_when": "design, thumbnails, presentations",
+      "note": "https://www.canva.com/affiliates/ is stale. Official path is Canvassador, then affiliate."
     },
     {
       "id": "nordvpn",
       "name": "NordVPN",
-      "join_url": "https://nordvpn.com/affiliates/",
-      "payout": "$40–$100+ per sale typical public range",
+      "join_url": "https://nordvpn.com/affiliate/",
+      "signup_url": "https://nordvpn.com/affiliate-signup/",
+      "dashboard_url": "https://affiliates.nordvpn.com/",
+      "payout": "Public range often $40–$100+ CPA plus renewals",
       "use_when": "privacy, travel Wi-Fi, security"
     }
   ],
@@ -31,9 +38,15 @@
       "use_when": "cables, mics, lights — never the core offer"
     }
   ],
+  "tracking_urls": {
+    "hostinger": "",
+    "canva": "",
+    "nordvpn": "",
+    "amazon_in": ""
+  },
   "rules": [
     "One primary affiliate id per episode",
-    "Paste your real tracking URL into affiliates.tracking_url before upload",
+    "Put your real tracking URL in tracking_urls or GitHub secrets AFFILIATE_HOSTINGER_URL / AFFILIATE_CANVA_URL / AFFILIATE_NORDVPN_URL",
     "Never use kids-channel or gaming-channel links"
   ]
 }

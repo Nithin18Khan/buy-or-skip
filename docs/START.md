@@ -24,29 +24,42 @@ Redirect URI:
 https://developers.google.com/oauthplayground
 ```
 
-Switch YouTube to **Buy or Skip** first, then [OAuth Playground](https://developers.google.com/oauthplayground) with **this** client. Scopes: `youtube.upload` + `youtube.readonly`.
+Switch YouTube to **Buy or Skip** first, then [OAuth Playground](https://developers.google.com/oauthplayground) with **this** client. Scopes:
 
-Secrets go in a **new** GitHub repo for this folder, names:
+- `youtube.upload`
+- `youtube.readonly`
+- `yt-analytics.readonly` (needed for the $1M stop)
+
+Secrets go in the **buy-or-skip** GitHub repo only:
 
 - `YOUTUBE_CLIENT_SECRET_JSON`
 - `YOUTUBE_REFRESH_TOKEN`
+- Optional: `AFFILIATE_HOSTINGER_URL`, `AFFILIATE_CANVA_URL`, `AFFILIATE_NORDVPN_URL`
 
 Never paste kids-repo secrets here.
 
-## 3. Affiliate programs (join, then paste links)
+## 3. Affiliate programs (current official URLs)
 
-- [Hostinger](https://www.hostinger.com/affiliates)
-- [Canva](https://www.canva.com/affiliates/)
-- [NordVPN](https://nordvpn.com/affiliates/)
-- [Amazon.in](https://affiliate-program.amazon.in/) as a side bucket only
+Factory probes these every run (`python main.py --check-links`):
 
-Put your tracking URL in each episode JSON: `affiliate.tracking_url`
+- Hostinger join: https://www.hostinger.com/affiliates — signup: https://affiliates.hostinger.com/signup
+- Canva: affiliate access is **Canvassador**, not the old `/affiliates/` page — https://www.canva.com/help/canva-affiliate-marketing-program/ and https://public.canva.site/canvassadors
+- NordVPN: https://nordvpn.com/affiliate/ — dashboard: https://affiliates.nordvpn.com/
+- Amazon.in (side bucket): https://affiliate-program.amazon.in/
+
+Paste your **personal tracking URL** into `config/affiliates.json` → `tracking_urls` or the GitHub secrets above. The factory cannot mint those IDs.
+
+Update GitHub variable `AFFILIATE_REVENUE_USD` from those dashboards. YouTube ads fill themselves after YPP.
+
+Uploads **keep going until ads + affiliate ≥ $1,000,000**, then stop.
 
 ## 4. Factory
 
 ```powershell
 cd $env:USERPROFILE\OneDrive\Desktop\money-tools-yt
+python main.py --status
+python main.py --check-links
 python main.py --next
 ```
 
-GitHub will run Monday + Thursday 06:30 IST after this folder is a repo with those secrets.
+GitHub runs Monday + Thursday 06:30 IST. After 24 episodes, add more unique JSON until the $1M gate trips.

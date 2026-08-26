@@ -21,6 +21,11 @@ jobs:
       PYTHONUNBUFFERED: "1"
       YOUTUBE_CLIENT_SECRET_JSON: ${{ secrets.YOUTUBE_CLIENT_SECRET_JSON }}
       YOUTUBE_REFRESH_TOKEN: ${{ secrets.YOUTUBE_REFRESH_TOKEN }}
+      AFFILIATE_REVENUE_USD: ${{ vars.AFFILIATE_REVENUE_USD }}
+      AFFILIATE_HOSTINGER_URL: ${{ secrets.AFFILIATE_HOSTINGER_URL }}
+      AFFILIATE_CANVA_URL: ${{ secrets.AFFILIATE_CANVA_URL }}
+      AFFILIATE_NORDVPN_URL: ${{ secrets.AFFILIATE_NORDVPN_URL }}
+      AFFILIATE_AMAZON_IN_URL: ${{ secrets.AFFILIATE_AMAZON_IN_URL }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -31,9 +36,12 @@ jobs:
         run: sudo apt-get update && sudo apt-get install -y ffmpeg fonts-dejavu-core
       - name: Dependencies
         run: pip install -r requirements.txt
-      - name: One long + Short trailer
+      - name: Current money + live affiliate URLs
         run: |
           python main.py --status
+          python main.py --check-links
+      - name: One long + Short trailer
+        run: |
           if [ -n "${YOUTUBE_REFRESH_TOKEN}" ]; then
             python main.py --next --upload
           else
@@ -45,7 +53,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/factory_state.json
+          git add data/factory_state.json data/revenue.json
           if git diff --staged --quiet; then
             echo "No state change"
           else

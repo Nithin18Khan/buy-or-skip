@@ -1,0 +1,8 @@
+{
+  "affiliate_usd": 0,
+  "youtube_ads_usd": 0,
+  "youtube_views": 0,
+  "checked_at": "2026-08-26T10:57:06.820710+00:00",
+  "youtube_error": "no YouTube OAuth yet",
+  "notes": "Set affiliate_usd from Hostinger / Canva / NordVPN / Amazon dashboards, or GitHub variable AFFILIATE_REVENUE_USD. YouTube ads fill automatically after YPP + yt-analytics.readonly. Uploads stop when affiliate_usd + youtube_ads_usd >= 1000000."
+}

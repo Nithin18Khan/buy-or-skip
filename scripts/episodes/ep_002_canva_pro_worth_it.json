@@ -1,6 +1,11 @@
 {
+  "id": "ep_002_canva_pro_worth_it",
+  "week": 1,
+  "slot": "long",
+  "lock_script": true,
+  "format": "auto",
   "title": "Is Canva Pro worth paying for?",
-  "youtube_title": "Is Canva Pro worth paying for?",
+  "youtube_title": "Canva Pro vs Free 2026: Buy or Skip?",
   "channel": "Buy or Skip",
   "language": "en",
   "made_for_kids": false,
@@ -9,26 +14,37 @@
     "program": "canva",
     "tracking_url": ""
   },
+  "facts": {
+    "promo": "FREE",
+    "renewal": "PRO",
+    "left_note": "posters, one-offs",
+    "right_note": "weekly output",
+    "prepaid": "~$120 / year typical",
+    "term": "Annual looks cheap until you forget it",
+    "verdict": "BUY",
+    "thumb_title": "Canva Pro worth it?",
+    "source": "Canva public pricing, 2026: Pro is commonly about $15/mo or ~$120/year. Features and prices move. Recheck the live page."
+  },
+  "hashtags": ["#CanvaPro", "#Canva", "#BuyOrSkip"],
   "tags": [
-    "review",
-    "tools",
+    "canva pro review",
+    "canva pro vs free",
+    "is canva pro worth it",
+    "canva pro 2026",
+    "canva brand kit",
+    "canva background remover",
     "BuyOrSkip",
-    "canva",
-    "english"
+    "review"
   ],
-  "narration": [
-    "Buy or Skip. Adult tool reviews. One verdict. Buy, wait, or skip.",
+  "short_narration": [
     "Free Canva is enough for a school poster.",
-    "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.",
-    "Free Canva is enough for a school poster. Pro is for people who ship thumbnails every week. We compare Brand Kit, background remover, and Magic Studio against the free tier.",
-    "This is for people who ship graphics on a schedule: thumbnails, ads, pitch decks.",
-    "Pro looks cheap until you forget to cancel the annual plan you do not use.",
-    "Free Canva blocks Brand Kit and treats background remover like a drip.",
-    "Skip Pro if you design twice a year. Buy if Canva is already your job, not a toy.",
-    "The description has one tracking link for this video. One offer. Not a dump of twenty tools.",
-    "This is Buy or Skip. English. Eighteen plus. Not for children."
+    "Pro is for people who ship thumbnails every week.",
+    "Brand Kit and background remover are the real paywall.",
+    "Skip if you design twice a year. Buy if Canva is already the job.",
+    "Full verdict on the channel. Recheck the live price before you pay."
   ],
-  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nIs Canva Pro worth paying for?\n\nFree Canva is enough for a school poster. Pro is for people who ship thumbnails every week. We compare Brand Kit, background remover, and Magic Studio against the free tier.\n\nThis is for people who ship graphics on a schedule: thumbnails, ads, pitch decks.\nPro looks cheap until you forget to cancel the annual plan you do not use.\nFree Canva blocks Brand Kit and treats background remover like a drip.\nSkip Pro if you design twice a year. Buy if Canva is already your job, not a toy.\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.\nPaste your real affiliate.tracking_url in the episode JSON before upload.",
+  "seo_body": "Canva Pro vs Free 2026: Buy or Skip?\n\nFree Canva is enough for a one-off poster. Pro is for people who ship thumbnails, ads, or decks on a schedule. This review is Brand Kit, background remover, Magic Studio, and the annual bill.\n\nBUY Pro if Canva is already weekly work and the yearly total still fits.\nSKIP Pro if you open it twice a year.\nWAIT if you have not shipped ten graphics yet.\n\nPrices move. Open Canva and recheck today's plan before you pay.\n\nChapters\n{chapters}\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.",
+  "description": "This video contains affiliate links. I may earn a commission if you buy, at no extra cost to you.\n\nCanva Pro vs Free 2026: Buy or Skip?\n\nFree Canva is enough for a one-off poster. Pro is for people who ship thumbnails, ads, or decks on a schedule.\n\nBUY Pro if Canva is already weekly work.\nSKIP if you design twice a year.\n\nChapters\n{chapters}\n\nChannel: Buy or Skip (@BuyOrSkip)\nAdult tool review. English. Not for children.",
   "shots": [
     {
       "id": "hook",
@@ -38,30 +54,156 @@
     {
       "id": "who",
       "label": "WHO IT IS FOR",
-      "line": "This is for people who ship graphics on a schedule: thumbnails, ads, pitch decks."
+      "line": "Weekly thumbnails, ads, pitch decks. Not two posters a year."
     },
     {
       "id": "price",
       "label": "REAL PRICE",
-      "line": "Pro looks cheap until you forget to cancel the annual plan you do not use."
+      "line": "Pro looks cheap until you forget the annual plan."
     },
     {
       "id": "catch",
       "label": "THE CATCH",
-      "line": "Free Canva blocks Brand Kit and treats background remover like a drip."
+      "line": "Free blocks Brand Kit and drips background remover."
     },
     {
       "id": "verdict",
       "label": "VERDICT",
-      "line": "Skip Pro if you design twice a year. Buy if Canva is already your job, not a toy."
+      "line": "Skip if twice a year. Buy if Canva is the job."
     },
     {
       "id": "end",
       "label": "BUY OR SKIP",
-      "line": "One link. One offer."
+      "line": "One Canva link in the description. Recheck the live price."
     }
   ],
-  "id": "ep_002_canva_pro_worth_it",
-  "week": 1,
-  "slot": "long"
+  "chapters": [
+    {
+      "id": "hook",
+      "label": "Free is a poster. Pro is a job.",
+      "capture_url": "https://www.canva.com/pro/",
+      "narration": [
+        "Free Canva is enough for a school poster.",
+        "It is not enough if you ship a thumbnail every week.",
+        "Pro is the paid layer: Brand Kit, background remover, Magic Studio, and a lot more stock.",
+        "This review is who should pay, who should skip, and what the yearly bill actually buys.",
+        "If you came here from a 'Canva Pro is a steal' ad, stay. The steal depends on how often you click export."
+      ]
+    },
+    {
+      "id": "disclosure",
+      "label": "Before we start",
+      "narration": [
+        "Some links in the description are affiliate.",
+        "You pay the same price either way.",
+        "Recheck the live Canva page before you pay. Plans move."
+      ]
+    },
+    {
+      "id": "who",
+      "label": "Who this is for",
+      "narration": [
+        "This is for people who already live in Canva.",
+        "Thumbnails. Ads. Pitch decks. A brand that has to look the same on Tuesday and Friday.",
+        "If you open Canva twice a year for a birthday card, stay on free.",
+        "If a client is waiting on a graphic and the free tools are blocking you, stay for the rest.",
+        "Skip Pro if design is a hobby you forget.",
+        "Buy if Canva is already how you ship work.",
+        "A YouTube channel that needs three thumbnails a week is in the buy bucket.",
+        "A person making one wedding invite is not.",
+        "A shop running weekly ads is in the buy bucket if the brand has to match the product photos.",
+        "If you are still shopping for a tool and you have not shipped ten files, wait."
+      ]
+    },
+    {
+      "id": "price",
+      "label": "The real bill",
+      "narration": [
+        "Pro is usually about fifteen dollars a month, or about one hundred twenty a year if you take the annual price.",
+        "Believe the live checkout, not this video, if the number moved.",
+        "The trap is not the monthly teaser. It is the annual plan you forget to cancel.",
+        "If you use Canva four times a year, that is thirty dollars a use. That is a skip.",
+        "If you use it four times a week, the yearly bill is cheaper than one freelancer hour.",
+        "Write the yearly total on a note before you click pay.",
+        "Teams, extra seats, and Canva for work cost more than this solo Pro number.",
+        "This video is the one-person plan. If you need a brand pack for eight people, that is a different invoice.",
+        "Also look at whether you are billed yearly. Monthly is friendlier to cancel. Yearly is how they print the cheap screenshot."
+      ]
+    },
+    {
+      "id": "panel",
+      "label": "What Pro actually unlocks",
+      "narration": [
+        "Brand Kit is the first real paywall.",
+        "On free, your colors and fonts do not stay locked across every file.",
+        "On Pro, the logo, palette, and type sit in one kit. That is how a channel stops looking like five different people.",
+        "Background remover is the second paywall. Free drips it. Pro treats it like a tool you can use on a deadline.",
+        "Magic Studio sits in the middle. Faster than starting from zero. Worse than a real art director.",
+        "Stock photos and the resize button matter if you post the same graphic to YouTube, Instagram, and a slide.",
+        "If you only need one of those, you may not need the whole plan.",
+        "If you need three of them every week, Pro is the plan.",
+        "Resize is the quiet feature. One thumbnail to a Short cover to a community post without rebuilding the file.",
+        "On free, that rebuild eats the hour you thought you saved.",
+        "Folder sharing with a client is nicer on Pro. If nobody else touches the file, ignore that line.",
+        "Magic Write and Magic Edit are speed, not taste. Use them for a first pass. Do not publish the first pass."
+      ]
+    },
+    {
+      "id": "speed",
+      "label": "Free versus Pro on real work",
+      "narration": [
+        "A one-off poster: free wins. You do not need Brand Kit for a bake sale.",
+        "A weekly thumbnail: Pro wins. Same face crop, same fonts, same colors, no hunting hex codes.",
+        "A client deck: Pro wins if the logo has to be correct on every slide.",
+        "Free will let you finish. It will also let you drift. That drift is why people pay.",
+        "I am not going to invent a score. Open a file you already made and see what is locked.",
+        "If the lock is on the thing you do tomorrow, that is the buy signal.",
+        "Time a real task. Make the same thumbnail on free, then with Brand Kit on Pro.",
+        "If the second one is only prettier, skip.",
+        "If the second one is twenty minutes faster and on-brand, that is the yearly bill paying for itself."
+      ]
+    },
+    {
+      "id": "catch",
+      "label": "The catch",
+      "narration": [
+        "Pro does not make you a designer.",
+        "A bad layout on Pro is still a bad layout.",
+        "Magic tools can look like everyone else's Magic tools. If your channel needs a unique look, you still do the last twenty percent by hand.",
+        "Teams and extra seats cost more. This verdict is for one person, not a company brand pack.",
+        "The annual bill auto-renews. If you stop posting, cancel before the year flips.",
+        "If any of that is a problem, skip, or wait until the work is weekly.",
+        "Stock photos on Pro are not exclusive. Your competitor can pull the same face.",
+        "If unique stills are the channel look, you still need another image stack.",
+        "Pro also will not fix a weak offer. A clean graphic on a bad product still loses."
+      ]
+    },
+    {
+      "id": "verdict",
+      "label": "Verdict",
+      "narration": [
+        "Verdict.",
+        "Buy Canva Pro if you already ship graphics on a schedule and Brand Kit or background remover is blocking you on free.",
+        "Skip Pro if you design twice a year. Free is the product for you.",
+        "Wait if you have not made ten real files yet. Learn the free editor first.",
+        "I am not telling every person on earth to pay.",
+        "I am telling the person whose job already is Canva that Pro is the plan I would use.",
+        "If the live price moved, the verdict moves with it. Recheck, then decide.",
+        "Buy means Pro for a working designer or creator, not every Canva upsell on the page.",
+        "Skip means stay on free and stop feeling guilty.",
+        "Wait means make ten files first, then come back to this video."
+      ]
+    },
+    {
+      "id": "cta",
+      "label": "One link, live price",
+      "narration": [
+        "One Canva link in the description. That is the offer.",
+        "Open it. Read today's monthly and yearly number.",
+        "If you ship every week and the yearly total still fits, use that page.",
+        "If you do not, stay on free.",
+        "This is Buy or Skip. One verdict. Recheck the live price before you pay."
+      ]
+    }
+  ]
 }

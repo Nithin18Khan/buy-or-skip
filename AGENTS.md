@@ -11,6 +11,7 @@ Standalone Cursor project. **Not** Kids Edu Shorts. **Not** gaming.
 | Promise | Adult tool reviews. One verdict: buy, wait, or skip. |
 | Floor | ₹40 lakh in 12–18 months if traffic is high-intent |
 | Stretch | $1,000,000 over ~4 years |
+| Upload stop | Combined ads + affiliate ≥ `$1,000,000` (`config/growth.json` `stop_uploads_at_usd`) |
 
 ## Walls
 
@@ -31,6 +32,8 @@ Standalone Cursor project. **Not** Kids Edu Shorts. **Not** gaming.
 
 ```powershell
 python main.py --check
+python main.py --status
+python main.py --check-links
 python main.py --plan-90
 python main.py --episode scripts/episodes/ep_001_hostinger_vs_cheap_hosting.json --dry-run
 python main.py --next

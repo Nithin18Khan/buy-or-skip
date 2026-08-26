@@ -9,6 +9,7 @@ from pathlib import Path
 SCOPES = [
     "https://www.googleapis.com/auth/youtube.upload",
     "https://www.googleapis.com/auth/youtube.readonly",
+    "https://www.googleapis.com/auth/yt-analytics.readonly",
 ]
 CLIENT_SECRET = "client_secret.json"
 TOKEN_FILE = "token.json"
@@ -56,14 +57,7 @@ def _creds_from_refresh(creds_dir: Path):
     )
 
 
-def upload_video(episode: dict, video_path: Path, *, root: Path) -> dict:
-    if episode.get("made_for_kids") is True:
-        raise ValueError("Money Tools must never upload Made for Kids")
-    if str(episode.get("language") or "en") != "en":
-        raise ValueError("English only")
-    if not video_path.exists():
-        raise FileNotFoundError(video_path)
-
+def get_youtube_creds(root: Path):
     creds_dir = _hydrate(root)
     secret = creds_dir / CLIENT_SECRET
     if not secret.exists() and not youtube_auth_available(root):
@@ -71,8 +65,6 @@ def upload_video(episode: dict, video_path: Path, *, root: Path) -> dict:
 
     from google.auth.transport.requests import Request
     from google.oauth2.credentials import Credentials
-    from googleapiclient.discovery import build
-    from googleapiclient.http import MediaFileUpload
 
     token_path = creds_dir / TOKEN_FILE
     creds = _creds_from_refresh(creds_dir)
@@ -83,7 +75,21 @@ def upload_video(episode: dict, video_path: Path, *, root: Path) -> dict:
     if not creds.valid and creds.refresh_token:
         creds.refresh(Request())
     token_path.write_text(creds.to_json(), encoding="utf-8")
+    return creds
 
+
+def upload_video(episode: dict, video_path: Path, *, root: Path) -> dict:
+    if episode.get("made_for_kids") is True:
+        raise ValueError("Money Tools must never upload Made for Kids")
+    if str(episode.get("language") or "en") != "en":
+        raise ValueError("English only")
+    if not video_path.exists():
+        raise FileNotFoundError(video_path)
+
+    from googleapiclient.discovery import build
+    from googleapiclient.http import MediaFileUpload
+
+    creds = get_youtube_creds(root)
     youtube = build("youtube", "v3", credentials=creds)
     channel = json.loads((root / "config" / "channel.json").read_text(encoding="utf-8"))
     expected = str(channel.get("youtube_channel_id") or "").strip()
@@ -100,6 +106,9 @@ def upload_video(episode: dict, video_path: Path, *, root: Path) -> dict:
     elif not expected:
         print("WARNING: config/channel.json has no youtube_channel_id yet.")
 
+    from pipeline.seo import apply_seo
+
+    apply_seo(episode)
     disclosure = str(channel.get("disclosure") or "")
     desc = str(episode.get("description") or episode["title"])
     if disclosure.lower() not in desc.lower():
@@ -126,6 +135,12 @@ def upload_video(episode: dict, video_path: Path, *, root: Path) -> dict:
     print(f"Uploading adult long-form → {video_path.name}")
     response = youtube.videos().insert(part="snippet,status", body=body, media_body=media).execute()
     video_id = response.get("id")
+    thumb = video_path.parent / "thumbnail.jpg"
+    if video_id and thumb.exists():
+        youtube.thumbnails().set(
+            videoId=video_id,
+            media_body=MediaFileUpload(str(thumb), mimetype="image/jpeg"),
+        ).execute()
     url = f"https://youtu.be/{video_id}" if video_id else ""
     print(f"Uploaded: {url}")
     return {"id": video_id, "url": url, "title": title}
